@@ -1,0 +1,2 @@
+rootProject.name='Youtube RecyclerView Example'
+include ':app'
